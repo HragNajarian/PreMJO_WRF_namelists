@@ -9,3 +9,6 @@ Contains the CTRL namelist.input files used.
 
 ## WPS Folder
 This folder contains the code used to run WPS which stayed the same between CTRL and NCRF simulations.
+
+## DOI
+10.5281/zenodo.17353652
